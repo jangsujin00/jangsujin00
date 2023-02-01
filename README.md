@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tstory&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-<!--
-**jangsujin00/jangsujin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Software Developer** ::미소짓는_상기된_얼굴::::근육::::컴퓨터::::아메리카가_보이는_지구::
 
-Here are some ideas to get you started:
+I hope to develop every things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Skills**:Python, Jupyternotebook:
+
+**Languages & Platforms**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+
+**Tools**
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
