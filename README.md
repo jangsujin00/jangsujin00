@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tstory&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-### **Software Developer** ::미소짓는_상기된_얼굴::::근육::::컴퓨터::::아메리카가_보이는_지구::
+### **Software Developer** ::😊✌️::🐰🐭🐻:: 
 
 I hope to develop every things.
 
